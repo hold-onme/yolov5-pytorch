@@ -1,0 +1,16 @@
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000111.jpg 191,107,531,540,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000122.jpg 49,55,614,597,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000128.jpg 61,129,256,471,0 257,126,380,470,0 378,96,491,489,0 487,109,616,435,0 612,122,628,421,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00013.jpg 63,97,268,526,0 267,60,348,539,0 356,64,425,513,0 427,68,525,336,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000138.jpg 201,108,468,542,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000141.jpg 156,26,557,506,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000148.jpg 33,14,610,569,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000149.jpg 13,137,414,635,0 282,170,542,636,0 412,179,609,580,0 512,182,628,472,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_000169.jpg 34,226,218,506,0 274,243,515,500,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_0002.jpg 76,82,164,488,0 162,66,271,539,0 268,3,591,615,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00039.jpg 192,10,536,610,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00069.jpg 273,193,549,547,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00072.jpg 111,189,393,478,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00085.jpg 371,164,640,640,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00093.jpg 150,63,511,472,0
+E:\yoloworkspace\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/Garbage_bin_00098.jpg 7,128,462,628,0
